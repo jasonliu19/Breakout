@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1420767153 source:c:\users\jason\desktop\projects\final assignment - brick breaker\main.cpp
+	<GL/glut.h>
+	<math.h>
+	<stdlib.h>
+	<iostream>
+	<vector>
+
+1368294560 c:\users\jason\desktop\projects\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1368294560 c:\users\jason\desktop\projects\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1421634184 source:c:\users\jason\desktop\projects\final assignment - brick breaker v2\main.cpp
+	<GL/glut.h>
+	<math.h>
+	<stdlib.h>
+	<iostream>
+	<vector>
+
